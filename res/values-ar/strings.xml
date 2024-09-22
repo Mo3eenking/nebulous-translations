@@ -774,7 +774,7 @@
     <string name="RESET">"إرجاع"</string>
     <string name="Message_Sent_">"تم إرسال الرسالة!"</string>
     <string name="From">"من عند"</string>
-    <string name="Sent">"تم الإرسال"</string>
+    <string name="Sent">تم الإرسال إلى"</string>
     <string name="REPLY">"رد"</string>
     <string name="Delete_Message">"حذف الرسالة"</string>
     <string name="BLOCK">"حظر"</string>
